@@ -21,7 +21,7 @@ I have a strong background in computer science and data science, with a bachelor
 <br />
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,,php,,c,,cpp,,javascript,,laravel,,vue,,nodejs,,jquery,,css,,styledcomponents,,sass,,tailwind,,bootstrap,,git,,github,,linux,,bash,,mysql,,postgres,,heroku,,netlify,,docker,,azure,,aws,,tensorflow,,vscode,&perline=9" />
+    <img src="https://skillicons.dev/icons?i=python,,php,,anaconda,,tensorflow,,sklearn,,flask,,sqlite,,mysql,,firebase,,gitlab,,docker,,aws,,gcp,,jenkins,,postman,,visualstudio,,atom,,rocket,,ai,,stackoverflow,,linkedin,,twitter,,gmail,&perline=9" />
   </a>
 </p>
 
